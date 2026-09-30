@@ -1,6 +1,10 @@
 # 11+ Vocabulary Practice 📚
 
-> iOS vocabulary app for UK 11+ exam preparation — live on the App Store with 92+ active users.
+> iOS vocabulary app for UK 11+ exam preparation — published on the Apple App Store.
+
+## About this repository
+
+This is a portfolio showcase for a commercial product. The application source is private. The documentation describes the product, architecture and my engineering contribution.
 
 ## Overview
 
@@ -35,7 +39,6 @@ This project was built using AI coding tools throughout the development lifecycl
 - **Cursor** — refactoring and code completion
 - **GitHub Copilot** — boilerplate and test generation
 
-AI tools enabled a solo engineer to ship a production-quality app with features typically requiring a full team.
 
 ## Architecture
 
@@ -49,9 +52,13 @@ PostgreSQL Database
 Nginx + Gunicorn + Cloudflare Tunnel
 ```
 
+## Engineering ownership
+
+I owned requirements, application design, implementation, deployment and ongoing maintenance. AI tools supported development; I remained responsible for reviewing changes, testing behaviour and operating the product.
+
 ## Status
 
-🟢 **Live on the Apple App Store** — 92+ active users
+**Published on the Apple App Store** — [View the app](https://apps.apple.com/gb/app/id6776011673)
 
 ---
 *Built by Ahmet Baktiaya · BKTY LTD · [bktyconsultancy.co.uk](https://bktyconsultancy.co.uk)*
